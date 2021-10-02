@@ -17,3 +17,9 @@
  - Place: India.
  - Bio: Code+Caffeine!! Happy Coding.
  - GitHub: [Kaustubh](https://github.com/mekaustubh28)
+
+#### Name: [Sujay Jami](https://github.com/Sujay99999)
+- Place: Hyderabad, India
+- Bio: Happy Coding
+- GitHub: [Sujay99999](https://github.com/Sujay99999)
+
