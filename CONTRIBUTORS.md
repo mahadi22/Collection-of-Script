@@ -22,6 +22,12 @@
 - Bio: Code+Caffeine!! Happy Coding.
 - GitHub: [Kaustubh](https://github.com/mekaustubh28)
 
+#### Name: Sujay Jami
+
+- Place: Hyderabad, India
+- Bio: Happy Coding
+- GitHub: [Sujay99999](https://github.com/Sujay99999)
+
 #### Name: Aniket Das
 
 - Place: Kolkata, India.
