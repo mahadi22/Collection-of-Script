@@ -17,9 +17,9 @@ And track you progress in [https://hacktoberfest.digitalocean.com/profile](https
 ## How to contribute to this project
 Here are a quick and painless ways to contribute to this project:
 
-* Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
-* **Create a simple "Hello, World" script in any programming language of your choice to scripts folder**
+* **Create a simple "Hello, World" or any script in any programming language of your choice to scripts folder.**
+* Add your name to the `CONTRIBUTORS.md` file if you want.
+* Add a profile page to the `profiles` directory if you want.
 * make a pull request for your work and wait for it to be merged!
 
 ## Getting started
