@@ -29,3 +29,4 @@ class Person {
 
 var myself = new Person('Mahadi22','Jakarta');
 myself.greeting();
+
