@@ -12,3 +12,8 @@
  - Place: Surabaya, Indonesia.
  - Bio: Someone who want to have girlfriend.
  - GitHub: [Tanaka](https://github.com/Tanakar65/)
+
+#### Name: Kaustubh Verma
+ - Place: India.
+ - Bio: Code+Caffeine!! Happy Coding.
+ - GitHub: [Kaustubh](https://github.com/mekaustubh28)
