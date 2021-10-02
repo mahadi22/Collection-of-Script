@@ -8,3 +8,7 @@
  - Bio: Normal High School student.
  - GitHub: [BR6507](https://github.com/BudiRahmawan)
 
+#### Name: Tanaka Rahmawan
+ - Place: Surabaya, Indonesia.
+ - Bio: Someone who want to have girlfriend.
+ - GitHub: [Tanaka](https://github.com/Tanakar65/)
