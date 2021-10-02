@@ -9,7 +9,10 @@ This repository is open to all members of the GitHub community. Any member may c
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+Register in [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+
+And track you progress in [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/profile).
+
 
 ## How to contribute to this project
 Here are a quick and painless ways to contribute to this project:
@@ -108,8 +111,8 @@ Here is my `hello_world` example: [hello_world_mahadi22.js](https://github.com/m
 
 ## BONUS!
 * See profiles submitted by fellow coders from around the globe ...
-* Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
-* Check out some very creative ways to print out a "Hello, World!" string.
+* Discover some obscure to new and trending languages ...
+* Check out some very creative ways to print out a "Hello, World!" string in any programming language.
 
 ## Reference links
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
