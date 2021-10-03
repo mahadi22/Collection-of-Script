@@ -17,10 +17,12 @@ And track you progress in [https://hacktoberfest.digitalocean.com/profile](https
 ## How to contribute to this project
 Here are a quick and painless ways to contribute to this project:
 
-* **Create a simple "Hello, World" or any script in any programming language of your choice to scripts folder.**
+* **Create any script in any programming language of your choice or a simple "Hello, World" to scripts folder.**
 * Add your name to the `CONTRIBUTORS.md` file if you want.
 * Add a profile page to the `profiles` directory if you want.
 * make a pull request for your work and wait for it to be merged!
+
+(You can do all the task or just Pull PR for Coding/Script/Algorithm to scripts folder.)
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
