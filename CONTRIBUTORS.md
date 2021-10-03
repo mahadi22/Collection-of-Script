@@ -33,3 +33,9 @@
 - Place: Kolkata, India.
 - Bio: Enjoy cracking codes.
 - GitHub: [HackMEAny](https://github.com/HackMEAny)
+
+#### Name: SMRITI
+
+- Place: India
+- Bio: Beginner in open source
+- GitHub: [SMRITI](https://github.com/Smriti925)
