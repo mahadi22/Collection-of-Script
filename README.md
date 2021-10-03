@@ -17,42 +17,23 @@ And track you progress in [https://hacktoberfest.digitalocean.com/profile](https
 ## How to contribute to this project
 Here are a quick and painless ways to contribute to this project:
 
-* **Create any script in any programming language of your choice or a simple "Hello, World" to scripts folder.**
-* Add your name to the `CONTRIBUTORS.md` file if you want.
-* Add a profile page to the `profiles` directory if you want.
-* make a pull request for your work and wait for it to be merged!
+* ✔️ **Create any script in any programming language of your choice or a simple "Hello, World" to scripts folder.**
+* ✔️ Add your name to the `CONTRIBUTORS.md` file if you want. (not mandatory)
+* ✔️ Add a profile page to the `profiles` directory if you want. (not mandatory)
+* ⚠️ make a pull request for your work and wait for it to be merged!
 
 (You can do all the task or just Pull PR for Coding/Script/Algorithm to scripts folder.)
 
-## Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
-
-```markdown
-git clone https://github.com/your-username/hacktoberfest.git
-```
-
-* Create a branch
-
-```markdown
-git checkout -b branch-name
-```
-
-* Make your changes (choose from any task below)
-* Commit and push
-
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
-```
-
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
-
 ## Choose from these tasks
-### 1. Add your name
+### 1. Create any script or a `Hello, World!` Script
+Create any script using any programming language OR make a `Hello, World!` script and pull to the `scripts` directory in any programming language of your choice!
+
+Don't forget to include the comments to help understanding the code. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
+
+Here is my `hello_world` example: [hello_world_mahadi22.js](https://github.com/mahadi22/hacktoberfest/blob/master/scripts/hello_world_mahadi22.js)
+
+
+### 2. Add your name (not mandatory)
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
@@ -62,7 +43,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a profile page
+### 3. Add a profile page (not mandatory)
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
@@ -92,24 +73,6 @@ Your School
 
 [Your Name](GitHub Link)
 ```
-
-### 3. Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
-
-```Javascript
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
-
-console.log('Hello, World!');
-```
-
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_mahadi22.js` or `hello_world_mahadi22.py`.
-
-Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
-
-Here is my `hello_world` example: [hello_world_mahadi22.js](https://github.com/mahadi22/hacktoberfest/blob/master/scripts/hello_world_mahadi22.js)
 
 ## BONUS!
 * See profiles submitted by fellow coders from around the globe ...
