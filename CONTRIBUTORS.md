@@ -45,3 +45,10 @@
 - Place: India
 - Bio: Beginner in open source
 - GitHub: [SMRITI](https://github.com/Smriti925)
+
+#### Name: Vanshul Choudhary
+
+- Place: Himachal Pradesh, India.
+- Bio: Learning and Growing :)
+- GitHub: [Cvanshulll](https://github.com/Cvanshulll)
+
