@@ -33,3 +33,9 @@
 - Place: Kolkata, India.
 - Bio: Enjoy cracking codes.
 - GitHub: [HackMEAny](https://github.com/HackMEAny)
+
+#### Name: Saugat Rimal
+
+- Place: Biratnagar, Nepal.
+- Bio: 𝐂𝐨𝐝𝐞 𝐢𝐬 𝐏𝐨𝐞𝐭𝐫𝐲 𝐃𝐞𝐬𝐢𝐠𝐧 𝐢𝐬 𝐏𝐚𝐬𝐬𝐢𝐨𝐧
+- GitHub: [saugat-rimal](https://github.com/saugat-rimal)
