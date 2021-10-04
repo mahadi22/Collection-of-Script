@@ -1,4 +1,6 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃🕸️ Starter Project Collection 🔰 🕸️🎃
+![logo](https://github.com/mahadi22/Collection-of-Script/blob/main/event_logo.png?raw=true "EVENT LOGO")
+
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
@@ -6,7 +8,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-## What is Hacktoberfest?
+## What is Hacktoberfest ❓
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 Register in [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
@@ -14,19 +16,19 @@ Register in [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digi
 And track you progress in [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/profile).
 
 
-## How to contribute to this project
+## ⚜️ How to contribute to this project ⚜️
 Here are a quick and painless ways to contribute to this project:
 
 * ✔️ **Create any script in any programming language of your choice or a simple "Hello, World" to scripts folder.**
-* ✔️ Add your name to the `CONTRIBUTORS.md` file if you want. (not mandatory)
-* ✔️ Add a profile page to the `profiles` directory if you want. (not mandatory)
-* ⚠️ make a pull request for your work and wait for it to be merged!
+* ✔️ Add your name to the `CONTRIBUTORS.md` file if you want. (🟡 not mandatory)
+* ✔️ Add a profile page to the `profiles` directory if you want. (🟡 not mandatory)
+* ✔️ Don't Forget to make a pull request for your work and wait for it to be merged ‼️ ⚠️
 
 (You can do all the task or just Pull PR for Coding/Script/Algorithm to scripts folder.)
 
 ## Choose from these tasks
-### 1. Create any script or a `Hello, World!` Script
-Create any script using any programming language OR make a `Hello, World!` script and pull to the `scripts` directory in any programming language of your choice!
+### 1. Create any Script/Code/Algorithm
+Create any script/code/algorithm OR make a Hello, World! script and make a PR to the `scripts` directory in any programming language of your choice!
 
 Don't forget to include the comments to help understanding the code. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
@@ -74,7 +76,7 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-## BONUS!
+## BONUS ❗
 * See profiles submitted by fellow coders from around the globe ...
 * Discover some obscure to new and trending languages ...
 * Check out some very creative ways to print out a "Hello, World!" string in any programming language.
