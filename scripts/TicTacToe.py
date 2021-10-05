@@ -1,5 +1,6 @@
 import random
 from os import system, name
+from colorama import Fore, Style
 
 board=[i for i in range(0,9)]
 player, computer = '',''
@@ -18,24 +19,27 @@ def clear():
 
 def print_board():
     clear()
-    print("\n--------------------")
+    print(Fore.WHITE + Style.BRIGHT + "\n\n--------------------")
     print("- Tic Tac Toe Game -")
     print("--------------------")
     print("      1|2|3")
     print("      4|5|6")
     print("      7|8|9\n")
-    print("\n")
-    print("Player is [%s] and computer is [%s]\n" % (player, computer))
+    print(Style.RESET_ALL + "\n")
+    print(Fore.RED + Style.BRIGHT + "Player is [%s] and computer is [%s]\n" % (player, computer))
+    print(Style.RESET_ALL)
     x=1
+    print(Fore.CYAN + Style.BRIGHT + "---------")
     for i in board:
         end = ' | '
-        if x%3 == 0:
+        if x%3 == 0 :
             end = ' \n'
             if i != 1: end+='---------\n';
         char=' '
         if i in ('X','O'): char=i;
         x+=1
-        print(char,end=end)
+        print(Fore.CYAN + Style.BRIGHT + char,end=end)
+    print(Style.RESET_ALL)
 
 def select_char():
     chars=('X','O')
@@ -107,17 +111,17 @@ while space_exist():
     move = int(input())
     moved, won = make_move(board, player, move)
     if not moved:
-        print(" >> Invalid number ! Try again !")
+        print(Fore.RED + " >> Invalid number ! Try again !")
+        print(Style.RESET_ALL)
         continue
 
     if won:
-        result='*** Congratulations ! You won ! ***'
+        result='### Congratulations, You won ! ###'
         break
     elif computer_move()[1]:
-        result='=== You lose ! =='
+        result='+++ You lose ! +++'
         break;
 
 print_board()
-print("\n" + result)
-
-
+print(Fore.GREEN + Style.BRIGHT + "\n" + result)
+print(Style.RESET_ALL)
