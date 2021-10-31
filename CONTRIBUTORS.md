@@ -51,6 +51,12 @@
 - Place: Himachal Pradesh, India.
 - Bio: Learning and Growing :)
 - GitHub: [Cvanshulll](https://github.com/Cvanshulll)
+- 
+#### Name: Chahat Bhatia
+
+- Place: Haryana, India.
+- Bio: Learning and Coding :)
+- GitHub: [bhatiachahat](https://github.com/bhatiachahat)
 
 #### Name: Vanshul Choudhary
 
