@@ -1,0 +1,4159 @@
+{
+  "extensions": [
+    {
+      "id": "10",
+      "lang": "de",
+      "source": "Wie Manga!"
+    },
+    {
+      "id": "100019686565354829",
+      "lang": "de",
+      "source": "MangaScouts"
+    },
+    {
+      "id": "1005243067156766734",
+      "lang": "en",
+      "source": "MangaDods"
+    },
+    {
+      "id": "1009658471753563437",
+      "lang": "en",
+      "source": "Arang Scans"
+    },
+    {
+      "id": "1016181401146312893",
+      "lang": "zh",
+      "source": "Webtoons.com Translations (Traditional)"
+    },
+    {
+      "id": "1024627298672457456",
+      "lang": "en",
+      "source": "Manganelo"
+    },
+    {
+      "id": "1027335725931026998",
+      "lang": "en",
+      "source": "NOISE"
+    },
+    {
+      "id": "1070495511221048163",
+      "lang": "tr",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "1070674823324721554",
+      "lang": "id",
+      "source": "Komik GO (WP Manga Stream)"
+    },
+    {
+      "id": "1073624495230267708",
+      "lang": "ar",
+      "source": "مانجا العاشق"
+    },
+    {
+      "id": "107810123708352143",
+      "lang": "ar",
+      "source": "AkuManga"
+    },
+    {
+      "id": "1081764220356482621",
+      "lang": "es",
+      "source": "The Library of Ohara"
+    },
+    {
+      "id": "11",
+      "lang": "fr",
+      "source": "Japscan"
+    },
+    {
+      "id": "1103204227230640533",
+      "lang": "hi",
+      "source": "Comics Valley"
+    },
+    {
+      "id": "1112158874210561012",
+      "lang": "en",
+      "source": "FreeWebtoonCoins"
+    },
+    {
+      "id": "1112696307660065507",
+      "lang": "en",
+      "source": "Manga Linkz"
+    },
+    {
+      "id": "1114173092141608635",
+      "lang": "ru",
+      "source": "Co-x"
+    },
+    {
+      "id": "1122841295940549140",
+      "lang": "fr",
+      "source": "Lelsca-VF"
+    },
+    {
+      "id": "1143507468946521173",
+      "lang": "vi",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "1145824452519314725",
+      "lang": "sv",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1149122786753672849",
+      "lang": "id",
+      "source": "KomikGo"
+    },
+    {
+      "id": "1163677774708676287",
+      "lang": "en",
+      "source": "ToonPoint"
+    },
+    {
+      "id": "1175381979559707712",
+      "lang": "hu",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "1176534682273577433",
+      "lang": "ko",
+      "source": "Mangazuki.club"
+    },
+    {
+      "id": "1179642931925221873",
+      "lang": "ja",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "1200098893271391617",
+      "lang": "es",
+      "source": "submanga"
+    },
+    {
+      "id": "1201694572804778862",
+      "lang": "en",
+      "source": "Mangafreak"
+    },
+    {
+      "id": "1202185861245013349",
+      "lang": "en",
+      "source": "Mangapanda"
+    },
+    {
+      "id": "120391793502126753",
+      "lang": "en",
+      "source": "NineMangaEn"
+    },
+    {
+      "id": "1210319763629695403",
+      "lang": "en",
+      "source": "LHTranslation"
+    },
+    {
+      "id": "1232262904653448061",
+      "lang": "en",
+      "source": "Comicastle"
+    },
+    {
+      "id": "1234956338723925763",
+      "lang": "tr",
+      "source": "MangaBaz"
+    },
+    {
+      "id": "123587459144760812",
+      "lang": "fr",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "1246964827947914733",
+      "lang": "fr",
+      "source": "Kangaryu"
+    },
+    {
+      "id": "1248510948017593518",
+      "lang": "th",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "1249168703631115418",
+      "lang": "sv",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "1251974539278082369",
+      "lang": "fi",
+      "source": "Bato.to"
+    },
+    {
+      "id": "1282327651016438253",
+      "lang": "ja",
+      "source": "Mangazuki.club"
+    },
+    {
+      "id": "1285500427822254733",
+      "lang": "pl",
+      "source": "Nikushima"
+    },
+    {
+      "id": "1286073245950890830",
+      "lang": "es",
+      "source": "MANGA Plus by SHUEISHA"
+    },
+    {
+      "id": "1292482610547376621",
+      "lang": "ru",
+      "source": "Русификация"
+    },
+    {
+      "id": "1302226087224798096",
+      "lang": "fa",
+      "source": "Bato.to"
+    },
+    {
+      "id": "1307337130805120040",
+      "lang": "en",
+      "source": "Silent Manga Audition"
+    },
+    {
+      "id": "1311262507446028482",
+      "lang": "ko",
+      "source": "Naver Webtoon"
+    },
+    {
+      "id": "1347402746269051958",
+      "lang": "my",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1350954721866318517",
+      "lang": "ar",
+      "source": "Manga Action"
+    },
+    {
+      "id": "1384625280015637699",
+      "lang": "fr",
+      "source": "Mangakawaii"
+    },
+    {
+      "id": "1387644865146734532",
+      "lang": "en",
+      "source": "MangaRave"
+    },
+    {
+      "id": "1396426423555611180",
+      "lang": "ru",
+      "source": "AComics"
+    },
+    {
+      "id": "139923318887989403",
+      "lang": "de",
+      "source": "Bato.to"
+    },
+    {
+      "id": "1399525878630017453",
+      "lang": "es-419",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "1401584337232758222",
+      "lang": "en",
+      "source": "HBrowse"
+    },
+    {
+      "id": "1408872100418757611",
+      "lang": "en",
+      "source": "ManhuaBox"
+    },
+    {
+      "id": "1411768577036936240",
+      "lang": "ja",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1424273154577029558",
+      "lang": "he",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1433898225963724122",
+      "lang": "it",
+      "source": "PervEden"
+    },
+    {
+      "id": "1435116756378369709",
+      "lang": "en",
+      "source": "TCB Scans"
+    },
+    {
+      "id": "1449082311473541145",
+      "lang": "en",
+      "source": "ReadManhua"
+    },
+    {
+      "id": "1471784905273036181",
+      "lang": "ms",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1481562643469779882",
+      "lang": "id",
+      "source": "Komik Indo (WP Manga Stream)"
+    },
+    {
+      "id": "1493666528525752601",
+      "lang": "zh-Hant",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1512072040307511188",
+      "lang": "ja",
+      "source": "Rawkuma"
+    },
+    {
+      "id": "1519320933268367407",
+      "lang": "ar",
+      "source": "MangaP"
+    },
+    {
+      "id": "1523875236630157514",
+      "lang": "en",
+      "source": "Dilbert"
+    },
+    {
+      "id": "152585275509866615",
+      "lang": "en",
+      "source": "Manhua SY"
+    },
+    {
+      "id": "1534896124643392093",
+      "lang": "en",
+      "source": "NekoScan"
+    },
+    {
+      "id": "1536543830008123238",
+      "lang": "no",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "1536735425006207760",
+      "lang": "en",
+      "source": "Mangasail"
+    },
+    {
+      "id": "1538201353388292343",
+      "lang": "ar",
+      "source": "Manga Arab Online مانجا عرب اون لاين"
+    },
+    {
+      "id": "1538249443376436084",
+      "lang": "en",
+      "source": "xkcd"
+    },
+    {
+      "id": "155525085323453412",
+      "lang": "fr",
+      "source": "Scantrad Union"
+    },
+    {
+      "id": "1582688726852506235",
+      "lang": "en",
+      "source": "ProjectTime Scans"
+    },
+    {
+      "id": "1599261660262942345",
+      "lang": "id",
+      "source": "Shea Manga"
+    },
+    {
+      "id": "1618337326936347760",
+      "lang": "pt-BR",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "1622954192645289673",
+      "lang": "en",
+      "source": "ReadM"
+    },
+    {
+      "id": "1625075103965897034",
+      "lang": "pt-BR",
+      "source": "Mark Scans"
+    },
+    {
+      "id": "1637952806167036168",
+      "lang": "zh",
+      "source": "漫画堆"
+    },
+    {
+      "id": "1639829368022947378",
+      "lang": "pt-BR",
+      "source": "HQ Now!"
+    },
+    {
+      "id": "164535712016830416",
+      "lang": "tr",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "1683078263344915307",
+      "lang": "mn",
+      "source": "Bato.to"
+    },
+    {
+      "id": "1692273855027402309",
+      "lang": "id",
+      "source": "Boosei"
+    },
+    {
+      "id": "1696542803139367757",
+      "lang": "en",
+      "source": "Manwahentai.me"
+    },
+    {
+      "id": "170616724910700834",
+      "lang": "en",
+      "source": "Chibi Manga"
+    },
+    {
+      "id": "1708305859302188895",
+      "lang": "zh",
+      "source": "漫画DB"
+    },
+    {
+      "id": "1713554459881080228",
+      "lang": "th",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1720762928205210073",
+      "lang": "id",
+      "source": "Bato.to"
+    },
+    {
+      "id": "1725608127916018822",
+      "lang": "en",
+      "source": "Oglaf"
+    },
+    {
+      "id": "1732795067034505464",
+      "lang": "zh",
+      "source": "ManManga"
+    },
+    {
+      "id": "1733642102689076122",
+      "lang": "pt-BR",
+      "source": "Hikari Scan"
+    },
+    {
+      "id": "1763721467556539301",
+      "lang": "en",
+      "source": "MangaTensei"
+    },
+    {
+      "id": "1779305268140322836",
+      "lang": "tr",
+      "source": "MangaVadisi"
+    },
+    {
+      "id": "1782621454240367603",
+      "lang": "uk",
+      "source": "Bato.to"
+    },
+    {
+      "id": "1784135076119945250",
+      "lang": "pt-BR",
+      "source": "Neox Scanlator"
+    },
+    {
+      "id": "1784979720116347109",
+      "lang": "pl",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "1802607831140380152",
+      "lang": "ko",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "1802675169972965535",
+      "lang": "en",
+      "source": "8Muses"
+    },
+    {
+      "id": "1810269772603542057",
+      "lang": "ro",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "1830654940513892447",
+      "lang": "it",
+      "source": "GTO The Great Site"
+    },
+    {
+      "id": "1839601948111051165",
+      "lang": "vi",
+      "source": "IuTruyenTranh"
+    },
+    {
+      "id": "1843121369144304668",
+      "lang": "ar",
+      "source": "Ninjavi"
+    },
+    {
+      "id": "1854096761417935388",
+      "lang": "it",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "1872740333369520717",
+      "lang": "es",
+      "source": "HeavenManga"
+    },
+    {
+      "id": "1876021963378735852",
+      "lang": "nl",
+      "source": "-Hentai"
+    },
+    {
+      "id": "188822990225555404",
+      "lang": "tr",
+      "source": "Epik Manga"
+    },
+    {
+      "id": "1939906909653153144",
+      "lang": "pt-BR",
+      "source": "MangaTeca"
+    },
+    {
+      "id": "1940075802000527244",
+      "lang": "zh",
+      "source": "Comico Challenge"
+    },
+    {
+      "id": "1952071260038453057",
+      "lang": "it",
+      "source": "MangaDex"
+    },
+    {
+      "id": "1959419006535599616",
+      "lang": "en",
+      "source": "Disaster Scans"
+    },
+    {
+      "id": "1966959767365611687",
+      "lang": "it",
+      "source": "PowerManga"
+    },
+    {
+      "id": "1977818283770282459",
+      "lang": "ko",
+      "source": "NewToki"
+    },
+    {
+      "id": "1988848562437115613",
+      "lang": "fr",
+      "source": "LireScan"
+    },
+    {
+      "id": "1998944621602463790",
+      "lang": "en",
+      "source": "MANGA Plus by SHUEISHA"
+    },
+    {
+      "id": "2",
+      "lang": "en",
+      "source": "Mangahere"
+    },
+    {
+      "id": "2002577432976464313",
+      "lang": "tr",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "2020812860364808563",
+      "lang": "es",
+      "source": "AlianzaMarcial"
+    },
+    {
+      "id": "2024895279481891604",
+      "lang": "ar",
+      "source": "MangaLink"
+    },
+    {
+      "id": "2050732366638281655",
+      "lang": "en",
+      "source": "ZeroScans"
+    },
+    {
+      "id": "2051289921324368795",
+      "lang": "en",
+      "source": "Manga Clash"
+    },
+    {
+      "id": "2054192099319007885",
+      "lang": "en",
+      "source": "ToonGod"
+    },
+    {
+      "id": "205901506276020437",
+      "lang": "fr",
+      "source": "Scan FR"
+    },
+    {
+      "id": "2064722193112934135",
+      "lang": "pt",
+      "source": "MangaToon (Limited)"
+    },
+    {
+      "id": "2068159019620749478",
+      "lang": "en",
+      "source": "MangaStream.xyz"
+    },
+    {
+      "id": "2084769296792806394",
+      "lang": "de",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "2087689083628336317",
+      "lang": "fr",
+      "source": "Scan OP"
+    },
+    {
+      "id": "2098905203823335614",
+      "lang": "ru",
+      "source": "MangaDex"
+    },
+    {
+      "id": "2099049323315539903",
+      "lang": "en",
+      "source": "WeScans"
+    },
+    {
+      "id": "2102294221965772686",
+      "lang": "ar",
+      "source": "Niji Translations"
+    },
+    {
+      "id": "2102507871480604746",
+      "lang": "it",
+      "source": "TuttoAnimeManga"
+    },
+    {
+      "id": "2122147045761338532",
+      "lang": "tr",
+      "source": "Tortuga Ceviri"
+    },
+    {
+      "id": "2139961888706390960",
+      "lang": "it",
+      "source": "LupiTeam"
+    },
+    {
+      "id": "2160637426591463299",
+      "lang": "it",
+      "source": "Bato.to"
+    },
+    {
+      "id": "2166280209395648616",
+      "lang": "fr",
+      "source": "Ajia no Scantrad"
+    },
+    {
+      "id": "2171445159732592630",
+      "lang": "ru",
+      "source": "-Hentai"
+    },
+    {
+      "id": "2175609514435085638",
+      "lang": "ja",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "2191753978421234924",
+      "lang": "zh",
+      "source": "Toomics (Only free chapters) (简体)"
+    },
+    {
+      "id": "2202687009511923782",
+      "lang": "es",
+      "source": "MangaMx"
+    },
+    {
+      "id": "2203215402871965477",
+      "lang": "zh",
+      "source": "NHentai"
+    },
+    {
+      "id": "2203611094544482220",
+      "lang": "sv",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "2212494110286248223",
+      "lang": "en",
+      "source": "Toonily.net"
+    },
+    {
+      "id": "2213214270763868665",
+      "lang": "pt-BR",
+      "source": "FDM Scan"
+    },
+    {
+      "id": "2221515250486218861",
+      "lang": "en",
+      "source": "Pururin"
+    },
+    {
+      "id": "2225174659569980836",
+      "lang": "pt-BR",
+      "source": "Leitor.net"
+    },
+    {
+      "id": "2229698930032787585",
+      "lang": "en",
+      "source": "Manga SY"
+    },
+    {
+      "id": "2238133673356002318",
+      "lang": "fr",
+      "source": "Tsubaki No Scan"
+    },
+    {
+      "id": "2245587204584158085",
+      "lang": "es",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "2282876426649148771",
+      "lang": "id",
+      "source": "KomikMama"
+    },
+    {
+      "id": "2289891939341407590",
+      "lang": "fr",
+      "source": "Toomics (Only free chapters)"
+    },
+    {
+      "id": "2294192864319418820",
+      "lang": "id",
+      "source": "MangaID"
+    },
+    {
+      "id": "2298376863553201776",
+      "lang": "tr",
+      "source": "Cutie Pie"
+    },
+    {
+      "id": "2309438911174734518",
+      "lang": "lt",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "2311776325951962519",
+      "lang": "ar",
+      "source": "KingzManga"
+    },
+    {
+      "id": "2314860689497806581",
+      "lang": "ru",
+      "source": "MangaOnlineBiz"
+    },
+    {
+      "id": "2344280025533721313",
+      "lang": "nl",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "2370178612168229047",
+      "lang": "en",
+      "source": "LetItGo Scans"
+    },
+    {
+      "id": "2385956107618754468",
+      "lang": "en",
+      "source": "XOXO Comics"
+    },
+    {
+      "id": "2386198516156819364",
+      "lang": "en",
+      "source": "Hero Manhua"
+    },
+    {
+      "id": "239913554470306602",
+      "lang": "en",
+      "source": "Wutopia"
+    },
+    {
+      "id": "2402699562771779060",
+      "lang": "en",
+      "source": "Manga Kiss"
+    },
+    {
+      "id": "2408078218204857839",
+      "lang": "he",
+      "source": "Bato.to"
+    },
+    {
+      "id": "24197625574136892",
+      "lang": "ko",
+      "source": "Mangazuki Raws"
+    },
+    {
+      "id": "2427924704397479177",
+      "lang": "pt-BR",
+      "source": "NekoBreaker"
+    },
+    {
+      "id": "2435875162158706544",
+      "lang": "vi",
+      "source": "TruyenChon"
+    },
+    {
+      "id": "2436176998646301840",
+      "lang": "ar",
+      "source": "MangaSpark"
+    },
+    {
+      "id": "2439436911203503908",
+      "lang": "en",
+      "source": "Einherjar Scan"
+    },
+    {
+      "id": "2451829407813501910",
+      "lang": "nl",
+      "source": "Bato.to"
+    },
+    {
+      "id": "2455131357585282669",
+      "lang": "fr",
+      "source": "Scan VF"
+    },
+    {
+      "id": "2458585375847450659",
+      "lang": "en",
+      "source": "Lilyreader"
+    },
+    {
+      "id": "2466512768990363955",
+      "lang": "ru",
+      "source": "Yaoichan"
+    },
+    {
+      "id": "2493186817710357703",
+      "lang": "vi",
+      "source": "TruyenTranhAudio.online"
+    },
+    {
+      "id": "2499087959809920897",
+      "lang": "en",
+      "source": "MangaDoom"
+    },
+    {
+      "id": "2499283573021220255",
+      "lang": "en",
+      "source": "MangaDex"
+    },
+    {
+      "id": "2506179980190913093",
+      "lang": "en",
+      "source": "Manga3S"
+    },
+    {
+      "id": "2522335540328470744",
+      "lang": "en",
+      "source": "Webtoons.com"
+    },
+    {
+      "id": "2526381983439079467",
+      "lang": "ko",
+      "source": "ManaToki"
+    },
+    {
+      "id": "2528465022697416175",
+      "lang": "el",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "2528986671771677900",
+      "lang": "en",
+      "source": "Mangakakalot"
+    },
+    {
+      "id": "2538708934770239141",
+      "lang": "ru",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "2548005429321146934",
+      "lang": "en",
+      "source": "Dynast-Issues"
+    },
+    {
+      "id": "2550247158174867325",
+      "lang": "id",
+      "source": "MangaKita"
+    },
+    {
+      "id": "2553532324170433933",
+      "lang": "vi",
+      "source": "TruyenQQ"
+    },
+    {
+      "id": "2599910820543401082",
+      "lang": "tr",
+      "source": "Manga Kitsu"
+    },
+    {
+      "id": "260868874183818481",
+      "lang": "en",
+      "source": "Hentai Cafe"
+    },
+    {
+      "id": "2619805283319620335",
+      "lang": "fi",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "262801178841465736",
+      "lang": "fr",
+      "source": "AT-Subs"
+    },
+    {
+      "id": "264168699090292138",
+      "lang": "ar",
+      "source": "MangaSwat"
+    },
+    {
+      "id": "2655149515337070132",
+      "lang": "pt-BR",
+      "source": "MangaDex"
+    },
+    {
+      "id": "2662217302374532650",
+      "lang": "en",
+      "source": "ManhuaScan"
+    },
+    {
+      "id": "2670834136440075102",
+      "lang": "en",
+      "source": "Helvetica Scans"
+    },
+    {
+      "id": "2681651342533848540",
+      "lang": "en",
+      "source": "MangaRead.org"
+    },
+    {
+      "id": "2686610366990303664",
+      "lang": "pt-BR",
+      "source": "Saikai Scan"
+    },
+    {
+      "id": "2689740268712856495",
+      "lang": "es",
+      "source": "LeoManga"
+    },
+    {
+      "id": "2703068117101782422",
+      "lang": "other",
+      "source": "Hitomi.la unfiltered"
+    },
+    {
+      "id": "2703831045012166262",
+      "lang": "en",
+      "source": "Mangatown"
+    },
+    {
+      "id": "2706040171335467974",
+      "lang": "th",
+      "source": "Bato.to"
+    },
+    {
+      "id": "2713386159585459304",
+      "lang": "fr",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "2715240826746973630",
+      "lang": "ro",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "2727140669803764425",
+      "lang": "en",
+      "source": "The Library of Ohara"
+    },
+    {
+      "id": "2727926930665642563",
+      "lang": "en",
+      "source": "VIZ Shonen Jump"
+    },
+    {
+      "id": "2737012136740119374",
+      "lang": "en",
+      "source": "MangaNelos.com"
+    },
+    {
+      "id": "2740038551946791506",
+      "lang": "es",
+      "source": "CopyPasteScan"
+    },
+    {
+      "id": "2743233241005498558",
+      "lang": "es",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "2744744293069403412",
+      "lang": "fr",
+      "source": "Sca-1"
+    },
+    {
+      "id": "275670196689829558",
+      "lang": "pt",
+      "source": "Webtoons.com Translations (Brazilian)"
+    },
+    {
+      "id": "2794483271535493188",
+      "lang": "en",
+      "source": "Yur-ism"
+    },
+    {
+      "id": "2804453080545902346",
+      "lang": "es",
+      "source": "Hunter Fansub"
+    },
+    {
+      "id": "28198508135984457",
+      "lang": "en",
+      "source": "Manhwa18"
+    },
+    {
+      "id": "282587253597010652",
+      "lang": "it",
+      "source": "The Library of Ohara"
+    },
+    {
+      "id": "2832458433399665913",
+      "lang": "en",
+      "source": "MangaSco"
+    },
+    {
+      "id": "2833730909254264619",
+      "lang": "en",
+      "source": "Manga Rocky"
+    },
+    {
+      "id": "2839764217256468988",
+      "lang": "en",
+      "source": "AniMangaEs"
+    },
+    {
+      "id": "2844510281651643961",
+      "lang": "es",
+      "source": "Spooky Scanlations"
+    },
+    {
+      "id": "2854399813849538518",
+      "lang": "en",
+      "source": "One Time Scans"
+    },
+    {
+      "id": "2867781075335889685",
+      "lang": "pl",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "2884190037559093788",
+      "lang": "zh",
+      "source": "动漫之家"
+    },
+    {
+      "id": "2909932855774980787",
+      "lang": "en",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "2915840973280647412",
+      "lang": "de",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "2928710698407089570",
+      "lang": "zh",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "293230877131974500",
+      "lang": "en",
+      "source": "Fallen Angels"
+    },
+    {
+      "id": "2959982438613576472",
+      "lang": "zh",
+      "source": "Webtoons.com"
+    },
+    {
+      "id": "2969574715769350777",
+      "lang": "en",
+      "source": "WebNovel"
+    },
+    {
+      "id": "2973433851338038518",
+      "lang": "tr",
+      "source": "NoxSubs"
+    },
+    {
+      "id": "302426112155791363",
+      "lang": "de",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "3027298328795616627",
+      "lang": "en",
+      "source": "Martial Scans"
+    },
+    {
+      "id": "3032959619549451093",
+      "lang": "es",
+      "source": "-Hentai"
+    },
+    {
+      "id": "3044113561993269522",
+      "lang": "es",
+      "source": "ApollComics"
+    },
+    {
+      "id": "304484989526158586",
+      "lang": "en",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "3053251231047124074",
+      "lang": "en",
+      "source": "NineAnime"
+    },
+    {
+      "id": "3054988613439396424",
+      "lang": "en",
+      "source": "Erofus"
+    },
+    {
+      "id": "3058779900487127621",
+      "lang": "en",
+      "source": "Manga347"
+    },
+    {
+      "id": "3060324045369811034",
+      "lang": "en",
+      "source": "Edelgarde Scans"
+    },
+    {
+      "id": "3064755045370217842",
+      "lang": "en",
+      "source": "Hiperdex"
+    },
+    {
+      "id": "3069292519512726908",
+      "lang": "en",
+      "source": "HeavenManga"
+    },
+    {
+      "id": "3070522925689892407",
+      "lang": "pt-BR",
+      "source": "Toonei"
+    },
+    {
+      "id": "3072260312918327479",
+      "lang": "uk",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "3087620036310234646",
+      "lang": "en",
+      "source": "Manhua ES"
+    },
+    {
+      "id": "3092057739527533146",
+      "lang": "tr",
+      "source": "GuncelManga"
+    },
+    {
+      "id": "3093613625761596144",
+      "lang": "en",
+      "source": "ManhwaSmut"
+    },
+    {
+      "id": "3095228123105662017",
+      "lang": "en",
+      "source": "MangaJar"
+    },
+    {
+      "id": "3112384885023225761",
+      "lang": "en",
+      "source": "Kissmanga.in"
+    },
+    {
+      "id": "3122156392225024195",
+      "lang": "en",
+      "source": "NHentai"
+    },
+    {
+      "id": "3129587999068776021",
+      "lang": "pt-BR",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "3133607736276627986",
+      "lang": "en",
+      "source": "Keenspot: TwoKinds"
+    },
+    {
+      "id": "313424729392609270",
+      "lang": "fil",
+      "source": "Bato.to"
+    },
+    {
+      "id": "3145308446359506361",
+      "lang": "tr",
+      "source": "Himera Fansub"
+    },
+    {
+      "id": "3146720114171452298",
+      "lang": "id",
+      "source": "MasterKomik"
+    },
+    {
+      "id": "3158884414181268012",
+      "lang": "zh",
+      "source": "Bato.to"
+    },
+    {
+      "id": "3164440079022386695",
+      "lang": "vi",
+      "source": "Bato.to"
+    },
+    {
+      "id": "3170561626848540385",
+      "lang": "en",
+      "source": "MangaKatana"
+    },
+    {
+      "id": "3174304866689254852",
+      "lang": "ru",
+      "source": "Just For Fun"
+    },
+    {
+      "id": "3211738643222130500",
+      "lang": "ko",
+      "source": "Manhwa18.net Raw"
+    },
+    {
+      "id": "3215387755256146567",
+      "lang": "en",
+      "source": "Immortal Updates"
+    },
+    {
+      "id": "3218173601050311368",
+      "lang": "en",
+      "source": "Hscans"
+    },
+    {
+      "id": "3231393208724843619",
+      "lang": "ru",
+      "source": "Onlinecomics"
+    },
+    {
+      "id": "3260701926561129943",
+      "lang": "el",
+      "source": "MangaDex"
+    },
+    {
+      "id": "3261761882825095722",
+      "lang": "es",
+      "source": "Leviatan Scans"
+    },
+    {
+      "id": "3262973772184794609",
+      "lang": "tr",
+      "source": "Mabushimajo"
+    },
+    {
+      "id": "3266285209111052954",
+      "lang": "en",
+      "source": "MangaDog"
+    },
+    {
+      "id": "3274683761704614629",
+      "lang": "en",
+      "source": "MangaTX"
+    },
+    {
+      "id": "3285208643537017688",
+      "lang": "ko",
+      "source": "MangaDex"
+    },
+    {
+      "id": "3287189578835787457",
+      "lang": "id",
+      "source": "Komikcast"
+    },
+    {
+      "id": "3297686297890166327",
+      "lang": "ru",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "3301466876472437630",
+      "lang": "id",
+      "source": "MangaYosh"
+    },
+    {
+      "id": "3322970876037682800",
+      "lang": "id",
+      "source": "KlanKomik"
+    },
+    {
+      "id": "3330861233813615504",
+      "lang": "th",
+      "source": "Webtoons.com"
+    },
+    {
+      "id": "3339599426223341161",
+      "lang": "ar",
+      "source": "MangaDex"
+    },
+    {
+      "id": "3345108299433070920",
+      "lang": "ja",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "335499577904379512",
+      "lang": "ar",
+      "source": "مانجا اون لاين"
+    },
+    {
+      "id": "3371822795753272045",
+      "lang": "it",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "3394902802486008664",
+      "lang": "pl",
+      "source": "Bato.to"
+    },
+    {
+      "id": "3415116372640359218",
+      "lang": "fr",
+      "source": "NineMangaFr"
+    },
+    {
+      "id": "3432431874797244607",
+      "lang": "en",
+      "source": "MangaCultivator"
+    },
+    {
+      "id": "3444391865384419960",
+      "lang": "pl",
+      "source": "Phoeni-Scans"
+    },
+    {
+      "id": "3447127973257049378",
+      "lang": "zh",
+      "source": "Comico Official (Limited free chapters)"
+    },
+    {
+      "id": "3461538027261412984",
+      "lang": "hi",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "3470433521851976761",
+      "lang": "en",
+      "source": "1st Kiss"
+    },
+    {
+      "id": "3478835885302345699",
+      "lang": "en",
+      "source": "Mangatellers"
+    },
+    {
+      "id": "3481544053197208408",
+      "lang": "cs",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "3484603489360202582",
+      "lang": "pt-BR",
+      "source": "Bato.to"
+    },
+    {
+      "id": "3485512757570629403",
+      "lang": "en",
+      "source": "ManyToon.me"
+    },
+    {
+      "id": "3505996597464989970",
+      "lang": "es",
+      "source": "Menud-Fansub"
+    },
+    {
+      "id": "3513672512216220515",
+      "lang": "en",
+      "source": "Mystical Merries"
+    },
+    {
+      "id": "3544999809861403189",
+      "lang": "ar",
+      "source": "Azora"
+    },
+    {
+      "id": "3547244847403070407",
+      "lang": "es",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "3564099743650101932",
+      "lang": "en",
+      "source": "JJutsuScans"
+    },
+    {
+      "id": "3578612018159256808",
+      "lang": "cs",
+      "source": "MangaDex"
+    },
+    {
+      "id": "359615774440780898",
+      "lang": "en",
+      "source": "TwinsComics"
+    },
+    {
+      "id": "3606219181907634622",
+      "lang": "en",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "3606721916149050760",
+      "lang": "en",
+      "source": "Mangasushi"
+    },
+    {
+      "id": "3616827811449702173",
+      "lang": "zh",
+      "source": "漫画人"
+    },
+    {
+      "id": "3639673976007021338",
+      "lang": "id",
+      "source": "Kiryuu (WP Manga Stream)"
+    },
+    {
+      "id": "3646502064357723952",
+      "lang": "id",
+      "source": "Manga Indo"
+    },
+    {
+      "id": "3684752808844040195",
+      "lang": "en",
+      "source": "Prime Manga"
+    },
+    {
+      "id": "368848319592333339",
+      "lang": "en",
+      "source": "Top Manhua"
+    },
+    {
+      "id": "369560986521986168",
+      "lang": "en",
+      "source": "Method Scans"
+    },
+    {
+      "id": "369930198294888688",
+      "lang": "en",
+      "source": "Manga Nine"
+    },
+    {
+      "id": "371640888113435809",
+      "lang": "zh",
+      "source": "Toomics (Only free chapters) (繁體)"
+    },
+    {
+      "id": "3761642629974399718",
+      "lang": "ar",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "3781216447842245147",
+      "lang": "fa",
+      "source": "MangaDex"
+    },
+    {
+      "id": "379372867900142375",
+      "lang": "ca",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "3807502156582598786",
+      "lang": "id",
+      "source": "MangaDex"
+    },
+    {
+      "id": "3808515943692209178",
+      "lang": "it",
+      "source": "Fall World Reader"
+    },
+    {
+      "id": "3825434541981130345",
+      "lang": "en",
+      "source": "Tapas"
+    },
+    {
+      "id": "3846770256925560569",
+      "lang": "tr",
+      "source": "MangaDex"
+    },
+    {
+      "id": "3850547700516240222",
+      "lang": "it",
+      "source": "Manga Eden"
+    },
+    {
+      "id": "3884032532694036214",
+      "lang": "da",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "3895171315878328595",
+      "lang": "es",
+      "source": "DoujinHentai"
+    },
+    {
+      "id": "3907280050995528877",
+      "lang": "no",
+      "source": "Bato.to"
+    },
+    {
+      "id": "3925930802319999047",
+      "lang": "mn",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "3926812845500643354",
+      "lang": "pt-BR",
+      "source": "Mangá Host"
+    },
+    {
+      "id": "3955189842350477641",
+      "lang": "fr",
+      "source": "-Hentai"
+    },
+    {
+      "id": "3974768336815476194",
+      "lang": "he",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "398037379041422243",
+      "lang": "it",
+      "source": "HentaiFantasy"
+    },
+    {
+      "id": "3983114856627782141",
+      "lang": "ko",
+      "source": "Naver Webtoon Best Challenge"
+    },
+    {
+      "id": "3999681502392690494",
+      "lang": "vi",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "4002667303103881826",
+      "lang": "en",
+      "source": "Milftoon"
+    },
+    {
+      "id": "400431609527575126",
+      "lang": "pt-BR",
+      "source": "Off Scan"
+    },
+    {
+      "id": "4005973248538140146",
+      "lang": "en",
+      "source": "ManhuaUS"
+    },
+    {
+      "id": "4055499394183150749",
+      "lang": "en",
+      "source": "Leviatan Scans"
+    },
+    {
+      "id": "406258778426488067",
+      "lang": "en",
+      "source": "WhimSubs"
+    },
+    {
+      "id": "4081135203808920563",
+      "lang": "en",
+      "source": "Webnovel.com"
+    },
+    {
+      "id": "4087355749124673740",
+      "lang": "bn",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "4097111295486074350",
+      "lang": "es",
+      "source": "NineMangaEs"
+    },
+    {
+      "id": "4098334577101891258",
+      "lang": "en",
+      "source": "Swords Comic"
+    },
+    {
+      "id": "4108427556945409839",
+      "lang": "he",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "4129272632455883902",
+      "lang": "vi",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "4133583118999977425",
+      "lang": "en",
+      "source": "IsekaiScan.com"
+    },
+    {
+      "id": "4141914703222012650",
+      "lang": "ja",
+      "source": "Rawdevart"
+    },
+    {
+      "id": "4144095310583587831",
+      "lang": "en",
+      "source": "Twilight Scans"
+    },
+    {
+      "id": "4146344224513899730",
+      "lang": "es",
+      "source": "TuMangaOnline"
+    },
+    {
+      "id": "4150470519566206911",
+      "lang": "bn",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4174321665354064253",
+      "lang": "en",
+      "source": "Koo Manga"
+    },
+    {
+      "id": "418374491144859437",
+      "lang": "zh",
+      "source": "七夕漫画"
+    },
+    {
+      "id": "4198559511832065650",
+      "lang": "ar",
+      "source": "مانجا اولاو"
+    },
+    {
+      "id": "4213491422253699699",
+      "lang": "ru",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "4215511432986138970",
+      "lang": "en",
+      "source": "Mangabat"
+    },
+    {
+      "id": "4222375517460530289",
+      "lang": "zh",
+      "source": "Dongman Manhua"
+    },
+    {
+      "id": "4230797637510582729",
+      "lang": "de",
+      "source": "Toomics (Only free chapters)"
+    },
+    {
+      "id": "4239270419267556174",
+      "lang": "ja",
+      "source": "Manga1001"
+    },
+    {
+      "id": "4242118899322826189",
+      "lang": "en",
+      "source": "Sens-Scans"
+    },
+    {
+      "id": "4253972830859945069",
+      "lang": "en",
+      "source": "The Nonames Scans"
+    },
+    {
+      "id": "425785191804166217",
+      "lang": "da",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4264835336591581099",
+      "lang": "ja",
+      "source": "Manga1000"
+    },
+    {
+      "id": "427405262130276885",
+      "lang": "vi",
+      "source": "Say Truyen"
+    },
+    {
+      "id": "4284949320785450865",
+      "lang": "hu",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4308007020001642101",
+      "lang": "tr",
+      "source": "Manga Diyari"
+    },
+    {
+      "id": "4312023446566221911",
+      "lang": "it",
+      "source": "NineMangaIt"
+    },
+    {
+      "id": "4316139130808778432",
+      "lang": "en",
+      "source": "ComicExtra"
+    },
+    {
+      "id": "4324693001442456743",
+      "lang": "tr",
+      "source": "Türkçe Manga"
+    },
+    {
+      "id": "4326600741784759527",
+      "lang": "it",
+      "source": "Novelle Leggere"
+    },
+    {
+      "id": "4341893737383682159",
+      "lang": "zh",
+      "source": "古风漫画网"
+    },
+    {
+      "id": "4348288691341764259",
+      "lang": "de",
+      "source": "-Hentai"
+    },
+    {
+      "id": "4353470354941192417",
+      "lang": "th",
+      "source": "Nekopost"
+    },
+    {
+      "id": "4357416108470845594",
+      "lang": "tr",
+      "source": "DiamondFansub"
+    },
+    {
+      "id": "437664019446265570",
+      "lang": "fr",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "4378659695320121364",
+      "lang": "pt-BR",
+      "source": "AnimaRegia"
+    },
+    {
+      "id": "4379246890416497052",
+      "lang": "id",
+      "source": "The Library of Ohara"
+    },
+    {
+      "id": "4380291791037455871",
+      "lang": "en",
+      "source": "Manga Lord"
+    },
+    {
+      "id": "4383360263234319058",
+      "lang": "id",
+      "source": "Bacakomik"
+    },
+    {
+      "id": "4385830901435613463",
+      "lang": "pt-BR",
+      "source": "Tsuki Mangás"
+    },
+    {
+      "id": "4399127807078496448",
+      "lang": "en",
+      "source": "Dynast-Chapters"
+    },
+    {
+      "id": "4405802410902298958",
+      "lang": "en",
+      "source": "The Cat Scans"
+    },
+    {
+      "id": "4406556873729219957",
+      "lang": "bg",
+      "source": "Utsukushii"
+    },
+    {
+      "id": "4476506734614164770",
+      "lang": "pt-BR",
+      "source": "Yuri Verso"
+    },
+    {
+      "id": "4480996639887718467",
+      "lang": "en",
+      "source": "Lily Manga"
+    },
+    {
+      "id": "4487676425355815867",
+      "lang": "ko",
+      "source": "Naver Webtoon Challenge"
+    },
+    {
+      "id": "4488498756724948818",
+      "lang": "pt-BR",
+      "source": "Toomics (Only free chapters)"
+    },
+    {
+      "id": "4491686682898882413",
+      "lang": "bg",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "4505830566611664829",
+      "lang": "fr",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4508733312114627536",
+      "lang": "en",
+      "source": "Komga"
+    },
+    {
+      "id": "4530528320166985351",
+      "lang": "hu",
+      "source": "Bato.to"
+    },
+    {
+      "id": "4574243309965401439",
+      "lang": "en",
+      "source": "Manhuas.net"
+    },
+    {
+      "id": "4576372010276942380",
+      "lang": "en",
+      "source": "Manga18 Fun"
+    },
+    {
+      "id": "4592614738928369373",
+      "lang": "fr",
+      "source": "JapScan (via EliMangas)"
+    },
+    {
+      "id": "4595941236605534370",
+      "lang": "id",
+      "source": "KomikRu"
+    },
+    {
+      "id": "4595999539879417257",
+      "lang": "en",
+      "source": "WebToonily"
+    },
+    {
+      "id": "4598364931281498633",
+      "lang": "en",
+      "source": "Anata no Motokare"
+    },
+    {
+      "id": "4599963434099708611",
+      "lang": "uk",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "4637971935551651734",
+      "lang": "en",
+      "source": "Guya"
+    },
+    {
+      "id": "4647727937001477835",
+      "lang": "en",
+      "source": "MerakiScans"
+    },
+    {
+      "id": "4672546343857366352",
+      "lang": "en",
+      "source": "Night Comic"
+    },
+    {
+      "id": "4673633799850248749",
+      "lang": "en",
+      "source": "PervEden"
+    },
+    {
+      "id": "4678440076103929247",
+      "lang": "zh",
+      "source": "-Hentai"
+    },
+    {
+      "id": "470210832901522464",
+      "lang": "en",
+      "source": "Sleeping Knight Scans"
+    },
+    {
+      "id": "4705692208637300585",
+      "lang": "en",
+      "source": "Schlock Mercenary"
+    },
+    {
+      "id": "4707301405821648695",
+      "lang": "en",
+      "source": "PMScans"
+    },
+    {
+      "id": "4710920497926776490",
+      "lang": "sh",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4722346859737894698",
+      "lang": "en",
+      "source": "Death Toll Scans"
+    },
+    {
+      "id": "4723653690154986979",
+      "lang": "en",
+      "source": "Latis Books"
+    },
+    {
+      "id": "4726175775739752699",
+      "lang": "ja",
+      "source": "NHentai"
+    },
+    {
+      "id": "4727829341596550054",
+      "lang": "ko",
+      "source": "JMana"
+    },
+    {
+      "id": "4738681820987759950",
+      "lang": "en",
+      "source": "OnManga"
+    },
+    {
+      "id": "4743523434971368490",
+      "lang": "fr",
+      "source": "O-VF"
+    },
+    {
+      "id": "4758858684982406533",
+      "lang": "en",
+      "source": "Mangahub"
+    },
+    {
+      "id": "4762777556012432014",
+      "lang": "pt-BR",
+      "source": "Mangá Livre"
+    },
+    {
+      "id": "4774459486579224459",
+      "lang": "ro",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4795663388852759880",
+      "lang": "en",
+      "source": "MangaToon (Limited)"
+    },
+    {
+      "id": "4813253161935544774",
+      "lang": "hi",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "4838485846640015979",
+      "lang": "id",
+      "source": "Komiku"
+    },
+    {
+      "id": "484380590638322236",
+      "lang": "en",
+      "source": "TimelessLeaf"
+    },
+    {
+      "id": "4863693274136077953",
+      "lang": "es",
+      "source": "Toomics (Only free chapters)"
+    },
+    {
+      "id": "4864082317433034574",
+      "lang": "ar",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "4870917758913494428",
+      "lang": "en",
+      "source": "S2Manga"
+    },
+    {
+      "id": "4872213291993424667",
+      "lang": "no",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4877104749161085606",
+      "lang": "en",
+      "source": "Raider Scans"
+    },
+    {
+      "id": "4882123531070420395",
+      "lang": "cs",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "4882329582057627714",
+      "lang": "ro",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "4894958130777364576",
+      "lang": "en",
+      "source": "Readkomik"
+    },
+    {
+      "id": "4899971628155084225",
+      "lang": "en",
+      "source": "MyHentaiComics"
+    },
+    {
+      "id": "491094567635736188",
+      "lang": "en",
+      "source": "Cyanide & Happiness"
+    },
+    {
+      "id": "491706257185842940",
+      "lang": "fa",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "4922018832509682712",
+      "lang": "id",
+      "source": "Neumanga"
+    },
+    {
+      "id": "4929461831293651842",
+      "lang": "it",
+      "source": "The Phoenix Scans"
+    },
+    {
+      "id": "4938773340256184018",
+      "lang": "es-419",
+      "source": "MangaDex"
+    },
+    {
+      "id": "4952451593357491304",
+      "lang": "es",
+      "source": "VMP"
+    },
+    {
+      "id": "4974695717580493197",
+      "lang": "id",
+      "source": "Komikid"
+    },
+    {
+      "id": "4987511338130452019",
+      "lang": "en",
+      "source": "PornComix"
+    },
+    {
+      "id": "4988964975436317060",
+      "lang": "en",
+      "source": "SecretScans"
+    },
+    {
+      "id": "4990678311970770946",
+      "lang": "tr",
+      "source": "Mang-TR"
+    },
+    {
+      "id": "4996521960500983956",
+      "lang": "en",
+      "source": "Doki Fansubs"
+    },
+    {
+      "id": "5",
+      "lang": "ru",
+      "source": "Readmanga"
+    },
+    {
+      "id": "5007169057258882420",
+      "lang": "nl",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "501567080700867400",
+      "lang": "pt-BR",
+      "source": "Bruttal"
+    },
+    {
+      "id": "505527307920113033",
+      "lang": "ar",
+      "source": "AndromedaScans"
+    },
+    {
+      "id": "5096384382752696500",
+      "lang": "ar",
+      "source": "Bato.to"
+    },
+    {
+      "id": "5098537545549490547",
+      "lang": "de",
+      "source": "MangaDex"
+    },
+    {
+      "id": "5110086455668329057",
+      "lang": "en",
+      "source": "MangaBob"
+    },
+    {
+      "id": "512760071575023870",
+      "lang": "pt-BR",
+      "source": "Social Comics"
+    },
+    {
+      "id": "5132811728275817394",
+      "lang": "en",
+      "source": "Komga (3)"
+    },
+    {
+      "id": "5135484966069776320",
+      "lang": "en",
+      "source": "Sleepy Panda Scans"
+    },
+    {
+      "id": "5145326243818977877",
+      "lang": "ro",
+      "source": "Bato.to"
+    },
+    {
+      "id": "5148895169070562838",
+      "lang": "zh-Hans",
+      "source": "MangaDex"
+    },
+    {
+      "id": "5161357527629843269",
+      "lang": "ja",
+      "source": "Shonen Jump+"
+    },
+    {
+      "id": "5177484976652938680",
+      "lang": "en",
+      "source": "Manhwatop"
+    },
+    {
+      "id": "5186628758186958017",
+      "lang": "tr",
+      "source": "MangaDenizi"
+    },
+    {
+      "id": "5188408707919914484",
+      "lang": "ru",
+      "source": "Bato.to"
+    },
+    {
+      "id": "5189216366882819742",
+      "lang": "pt",
+      "source": "MangaDex"
+    },
+    {
+      "id": "5190569675461947007",
+      "lang": "en",
+      "source": "Toonily"
+    },
+    {
+      "id": "5196522547754842244",
+      "lang": "zh",
+      "source": "Webtoons.com Translations (Simplified)"
+    },
+    {
+      "id": "5198966899163361086",
+      "lang": "vi",
+      "source": "NetTruyen"
+    },
+    {
+      "id": "5200293225675847390",
+      "lang": "ja",
+      "source": "Nikkangecchan"
+    },
+    {
+      "id": "5200732503185783267",
+      "lang": "en",
+      "source": "ManhwaTime"
+    },
+    {
+      "id": "5203173367987472935",
+      "lang": "ja",
+      "source": "Bato.to"
+    },
+    {
+      "id": "5210812996437671467",
+      "lang": "en",
+      "source": "Comicpunch"
+    },
+    {
+      "id": "5213948951740602020",
+      "lang": "id",
+      "source": "KlikManga"
+    },
+    {
+      "id": "5227602742162454547",
+      "lang": "ru",
+      "source": "Selfmanga"
+    },
+    {
+      "id": "523495022930680812",
+      "lang": "pt-BR",
+      "source": "Super Mangás"
+    },
+    {
+      "id": "5265169767970536437",
+      "lang": "fr",
+      "source": "Jpmangas"
+    },
+    {
+      "id": "5272382536346953209",
+      "lang": "es",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "5280563313621608495",
+      "lang": "en",
+      "source": "Edens Zero and Hero's"
+    },
+    {
+      "id": "5292321441703837867",
+      "lang": "tr",
+      "source": "Puzzmos"
+    },
+    {
+      "id": "5316229865560945519",
+      "lang": "da",
+      "source": "Bato.to"
+    },
+    {
+      "id": "5360960267485387879",
+      "lang": "id",
+      "source": "Ngomik"
+    },
+    {
+      "id": "5395337934603197359",
+      "lang": "nl",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "53983349886510189",
+      "lang": "en",
+      "source": "Iskultrip Scans"
+    },
+    {
+      "id": "540252682818453285",
+      "lang": "fr",
+      "source": "Mang-Scantrad"
+    },
+    {
+      "id": "5432970425689607116",
+      "lang": "en",
+      "source": "ManhuaFast"
+    },
+    {
+      "id": "5458975197912130939",
+      "lang": "other",
+      "source": "HentaiShark"
+    },
+    {
+      "id": "5459011197259828024",
+      "lang": "en",
+      "source": "Hunlight Scans"
+    },
+    {
+      "id": "5463447640980279236",
+      "lang": "bg",
+      "source": "MangaDex"
+    },
+    {
+      "id": "546402001269896601",
+      "lang": "en",
+      "source": "MangaMainac (Multiple Sites)"
+    },
+    {
+      "id": "5481496925806414805",
+      "lang": "de",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "5486262618423256587",
+      "lang": "id",
+      "source": "Pojok Manga"
+    },
+    {
+      "id": "5502288658985654039",
+      "lang": "ko",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "5504588601186153612",
+      "lang": "ru",
+      "source": "Henchan"
+    },
+    {
+      "id": "5509224355268673176",
+      "lang": "en",
+      "source": "Kirei Cake"
+    },
+    {
+      "id": "5511951724437637256",
+      "lang": "pt",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "5518139233481768385",
+      "lang": "ru",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "5520021760150818261",
+      "lang": "en",
+      "source": "KillSixBillionDemons"
+    },
+    {
+      "id": "5557370034528084749",
+      "lang": "fa",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "5564060716297760161",
+      "lang": "en",
+      "source": "Questionable Content"
+    },
+    {
+      "id": "5580504648461314814",
+      "lang": "en",
+      "source": "HeroScan"
+    },
+    {
+      "id": "5583592074091713901",
+      "lang": "fr",
+      "source": "Scantrad"
+    },
+    {
+      "id": "5591830863732393712",
+      "lang": "en",
+      "source": "nHentai.com (unoriginal)"
+    },
+    {
+      "id": "5598237290268388565",
+      "lang": "id",
+      "source": "Comic Fx"
+    },
+    {
+      "id": "5598298311107274167",
+      "lang": "es",
+      "source": "Mangadoor"
+    },
+    {
+      "id": "5610143937935893388",
+      "lang": "de",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "5612545802000278148",
+      "lang": "en",
+      "source": "Manhwa18.net"
+    },
+    {
+      "id": "5629996288039924878",
+      "lang": "ko",
+      "source": "ManyToonClub"
+    },
+    {
+      "id": "5652636928388608981",
+      "lang": "en",
+      "source": "Honkai Impact 3rd"
+    },
+    {
+      "id": "5676233752760414531",
+      "lang": "zh",
+      "source": "MangaToon (Limited)"
+    },
+    {
+      "id": "568551799323473384",
+      "lang": "pt-BR",
+      "source": "Zinnes"
+    },
+    {
+      "id": "5702082694566979718",
+      "lang": "ar",
+      "source": "شبكة كونان العربية"
+    },
+    {
+      "id": "57122881048805941",
+      "lang": "en",
+      "source": "-Hentai"
+    },
+    {
+      "id": "5716614438725518956",
+      "lang": "id",
+      "source": "Maid- Manga"
+    },
+    {
+      "id": "5740849136135469941",
+      "lang": "en",
+      "source": "Clone Manga"
+    },
+    {
+      "id": "5756892552804971329",
+      "lang": "en",
+      "source": "HolyManga"
+    },
+    {
+      "id": "5759417018342755550",
+      "lang": "it",
+      "source": "-Hentai"
+    },
+    {
+      "id": "5779037855201976894",
+      "lang": "uk",
+      "source": "MangaDex"
+    },
+    {
+      "id": "5782663927698937256",
+      "lang": "en",
+      "source": "Patch Friday"
+    },
+    {
+      "id": "5785123540715035266",
+      "lang": "en",
+      "source": "ManManga"
+    },
+    {
+      "id": "5786550835901373927",
+      "lang": "tr",
+      "source": "Rüya Manga"
+    },
+    {
+      "id": "5797892749908651281",
+      "lang": "cs",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "5812565188398085199",
+      "lang": "fi",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "5818858964600650549",
+      "lang": "es",
+      "source": "Kumanga"
+    },
+    {
+      "id": "582783445186478757",
+      "lang": "es",
+      "source": "Douji-Yang"
+    },
+    {
+      "id": "5835779654748799839",
+      "lang": "id",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "5836611700806032846",
+      "lang": "fr",
+      "source": "Bato.to"
+    },
+    {
+      "id": "5845004992097969882",
+      "lang": "id",
+      "source": "MG Komik"
+    },
+    {
+      "id": "584889515970211990",
+      "lang": "zh",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "5850874988468665759",
+      "lang": "en",
+      "source": "MangaRawr"
+    },
+    {
+      "id": "5854986367394591788",
+      "lang": "en",
+      "source": "Nux Scans"
+    },
+    {
+      "id": "5855032551259176250",
+      "lang": "en",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "5860541308324630662",
+      "lang": "ca",
+      "source": "MangaDex"
+    },
+    {
+      "id": "5863689091347555353",
+      "lang": "en",
+      "source": "Manhuas World"
+    },
+    {
+      "id": "5866007440358889004",
+      "lang": "en",
+      "source": "ManhwaManga.net"
+    },
+    {
+      "id": "5867323867982990369",
+      "lang": "id",
+      "source": "ManhuaID"
+    },
+    {
+      "id": "5895897945351552938",
+      "lang": "en",
+      "source": "Manga68"
+    },
+    {
+      "id": "5898568703656160",
+      "lang": "pt-BR",
+      "source": "HipercooL"
+    },
+    {
+      "id": "5907654956442170592",
+      "lang": "ko",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "5912129849785928949",
+      "lang": "en",
+      "source": "MangaOwl"
+    },
+    {
+      "id": "5919929675023317983",
+      "lang": "en",
+      "source": "Mangazuki.online"
+    },
+    {
+      "id": "5928814044981439517",
+      "lang": "el",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "5933657200789309472",
+      "lang": "id",
+      "source": "Mangaku"
+    },
+    {
+      "id": "593455310609863709",
+      "lang": "pt-BR",
+      "source": "Darkyu Realm"
+    },
+    {
+      "id": "5938666188580511126",
+      "lang": "en",
+      "source": "Zin Translator"
+    },
+    {
+      "id": "5943234929466346733",
+      "lang": "zh",
+      "source": "《崩坏3》IP站"
+    },
+    {
+      "id": "596116764600883893",
+      "lang": "en",
+      "source": "No-Stop Scas"
+    },
+    {
+      "id": "5967745367608513818",
+      "lang": "mn",
+      "source": "MangaDex"
+    },
+    {
+      "id": "5980349886941016589",
+      "lang": "th",
+      "source": "-Hentai"
+    },
+    {
+      "id": "5982392657400941658",
+      "lang": "en",
+      "source": "Ar-Relight"
+    },
+    {
+      "id": "5990851390838920547",
+      "lang": "ms",
+      "source": "Bato.to"
+    },
+    {
+      "id": "5993044061860511575",
+      "lang": "ar",
+      "source": "MangaZen"
+    },
+    {
+      "id": "5997115343362835708",
+      "lang": "pt-BR",
+      "source": "Mundo Hentai"
+    },
+    {
+      "id": "6",
+      "lang": "ru",
+      "source": "Mintmanga"
+    },
+    {
+      "id": "6004510217874770986",
+      "lang": "es",
+      "source": "Kirishima Fansub"
+    },
+    {
+      "id": "6015156804599805206",
+      "lang": "da",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "6016326572895123512",
+      "lang": "en",
+      "source": "Manga Turf"
+    },
+    {
+      "id": "6030591105377973908",
+      "lang": "en",
+      "source": "Manga Mutiny"
+    },
+    {
+      "id": "6032516943051342273",
+      "lang": "en",
+      "source": "TritiniaScans"
+    },
+    {
+      "id": "603519797225889209",
+      "lang": "en",
+      "source": "Manhuaga"
+    },
+    {
+      "id": "6036325841864340105",
+      "lang": "en",
+      "source": "Gunnerkrigg Court"
+    },
+    {
+      "id": "6043129435152760839",
+      "lang": "en",
+      "source": "KisekiManga"
+    },
+    {
+      "id": "6053755714337636577",
+      "lang": "mn",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "6058166507489091982",
+      "lang": "ar",
+      "source": "Manga Starz"
+    },
+    {
+      "id": "6073266008352078708",
+      "lang": "vi",
+      "source": "-Hentai"
+    },
+    {
+      "id": "6093927918148968667",
+      "lang": "it",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "6109902378303067457",
+      "lang": "en",
+      "source": "ComicLatest"
+    },
+    {
+      "id": "6111047689498497237",
+      "lang": "ru",
+      "source": "Mangalib"
+    },
+    {
+      "id": "6116711405602166104",
+      "lang": "pl",
+      "source": "-Hentai"
+    },
+    {
+      "id": "6127404941828884054",
+      "lang": "id",
+      "source": "MangaShiro"
+    },
+    {
+      "id": "6140480779421365791",
+      "lang": "other",
+      "source": "-Hentai"
+    },
+    {
+      "id": "6140599306147980654",
+      "lang": "en",
+      "source": "MangaFast"
+    },
+    {
+      "id": "6148605743576635261",
+      "lang": "id",
+      "source": "Komik Station (WP Manga Stream)"
+    },
+    {
+      "id": "6151271629139709650",
+      "lang": "vi",
+      "source": "MeDocTruyenTranh"
+    },
+    {
+      "id": "6153978034526023078",
+      "lang": "en",
+      "source": "Evil Flowers"
+    },
+    {
+      "id": "6157490448326783413",
+      "lang": "ru",
+      "source": "MangaClub"
+    },
+    {
+      "id": "6165985823394799354",
+      "lang": "id",
+      "source": "Kaisar Komik"
+    },
+    {
+      "id": "6179954312892676695",
+      "lang": "pt",
+      "source": "Bato.to"
+    },
+    {
+      "id": "6183974782085457172",
+      "lang": "ms",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "6204540321264480489",
+      "lang": "es",
+      "source": "Bato.to"
+    },
+    {
+      "id": "6214674134556873057",
+      "lang": "da",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "6221009752270964583",
+      "lang": "id",
+      "source": "Komik Indo"
+    },
+    {
+      "id": "6223520752496636410",
+      "lang": "ja",
+      "source": "Manga Raw"
+    },
+    {
+      "id": "6233473423796565229",
+      "lang": "ru",
+      "source": "BestManga"
+    },
+    {
+      "id": "6243685045159195166",
+      "lang": "en",
+      "source": "Dynast-Doujins"
+    },
+    {
+      "id": "6259531251211001503",
+      "lang": "en",
+      "source": "MangaPark"
+    },
+    {
+      "id": "6262106764679184511",
+      "lang": "ar",
+      "source": "مانجا شقاع"
+    },
+    {
+      "id": "6265798853257670403",
+      "lang": "en",
+      "source": "Mixed Manga"
+    },
+    {
+      "id": "6266226783871841407",
+      "lang": "th",
+      "source": "MangaToon (Limited)"
+    },
+    {
+      "id": "6286738698187452081",
+      "lang": "zh",
+      "source": "禁漫天堂"
+    },
+    {
+      "id": "629798049948184060",
+      "lang": "pt-BR",
+      "source": "Ichirin No Hana Yuri"
+    },
+    {
+      "id": "6300132503777419843",
+      "lang": "ru",
+      "source": "Anibe"
+    },
+    {
+      "id": "6304246026723672697",
+      "lang": "ja",
+      "source": "KissLove"
+    },
+    {
+      "id": "6316067633373100407",
+      "lang": "en",
+      "source": "1st Kiss Manhua"
+    },
+    {
+      "id": "6318378620301107421",
+      "lang": "en",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "6327733902453064723",
+      "lang": "en",
+      "source": "Mangazuki.me"
+    },
+    {
+      "id": "6328530113773365516",
+      "lang": "en",
+      "source": "TheTopComic"
+    },
+    {
+      "id": "6333127591790862402",
+      "lang": "zh",
+      "source": "TwinsComics"
+    },
+    {
+      "id": "6350607071566689772",
+      "lang": "en",
+      "source": "Flame Scans"
+    },
+    {
+      "id": "6384784374922886076",
+      "lang": "ru",
+      "source": "Nud-Moon"
+    },
+    {
+      "id": "6391879237590642639",
+      "lang": "en",
+      "source": "Zandy no Fansub"
+    },
+    {
+      "id": "6400665728063187402",
+      "lang": "es",
+      "source": "MangaDex"
+    },
+    {
+      "id": "6415334906115325244",
+      "lang": "ru",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "6418367358108069565",
+      "lang": "en",
+      "source": "Renascence Scans (Renascans)"
+    },
+    {
+      "id": "6421161733880550801",
+      "lang": "en",
+      "source": "BoomManga"
+    },
+    {
+      "id": "6434607482102119984",
+      "lang": "pt-BR",
+      "source": "Super Hentais"
+    },
+    {
+      "id": "6448286333532787905",
+      "lang": "en",
+      "source": "AsuraScans"
+    },
+    {
+      "id": "6452037068938114108",
+      "lang": "th",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "6456162511058446409",
+      "lang": "pt-BR",
+      "source": "Mangás Yuri"
+    },
+    {
+      "id": "6468780937168595917",
+      "lang": "tr",
+      "source": "Bato.to"
+    },
+    {
+      "id": "6473574292325120331",
+      "lang": "zh",
+      "source": "奇妙漫画"
+    },
+    {
+      "id": "6477399197283614621",
+      "lang": "bg",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "6495955027968241042",
+      "lang": "bg",
+      "source": "Bato.to"
+    },
+    {
+      "id": "6528893207032794482",
+      "lang": "pt-BR",
+      "source": "Yaoi Toshokan"
+    },
+    {
+      "id": "6530979593225351298",
+      "lang": "vi",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "6531002958728774729",
+      "lang": "ru",
+      "source": "NineMangaRu"
+    },
+    {
+      "id": "6540843430852844328",
+      "lang": "en",
+      "source": "WuxiaWorld"
+    },
+    {
+      "id": "6545217522384225054",
+      "lang": "en",
+      "source": "ShoujoHearts"
+    },
+    {
+      "id": "6551136894818591762",
+      "lang": "zh",
+      "source": "紳士漫畫"
+    },
+    {
+      "id": "6553637117802931779",
+      "lang": "es",
+      "source": "ZManga"
+    },
+    {
+      "id": "6555476126398287820",
+      "lang": "ar",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "6560590405285280138",
+      "lang": "id",
+      "source": "Nyan FM"
+    },
+    {
+      "id": "6560768551969686205",
+      "lang": "vi",
+      "source": "HentaiVN"
+    },
+    {
+      "id": "6566498408949408400",
+      "lang": "en",
+      "source": "MangaRock.es"
+    },
+    {
+      "id": "6570267890236479931",
+      "lang": "uk",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "6572636034693050219",
+      "lang": "id",
+      "source": "MangaToon (Limited)"
+    },
+    {
+      "id": "6596496791271983268",
+      "lang": "ko",
+      "source": "Toonkor"
+    },
+    {
+      "id": "6615057899864522767",
+      "lang": "pt-BR",
+      "source": "Mundo Mang-Kun"
+    },
+    {
+      "id": "6620819060709781499",
+      "lang": "en",
+      "source": "Hiveworks Comics"
+    },
+    {
+      "id": "6683576006215968722",
+      "lang": "es",
+      "source": "Mangas.pw"
+    },
+    {
+      "id": "6684416167758830305",
+      "lang": "ru",
+      "source": "Desu"
+    },
+    {
+      "id": "669095474988166464",
+      "lang": "en",
+      "source": "Dynast-Series"
+    },
+    {
+      "id": "6696312508930833206",
+      "lang": "zh",
+      "source": "拷贝漫画"
+    },
+    {
+      "id": "6707338697138388238",
+      "lang": "en",
+      "source": "Tsumino"
+    },
+    {
+      "id": "6728052768942551552",
+      "lang": "en",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "6750082404202711318",
+      "lang": "en",
+      "source": "WebtoonXYZ"
+    },
+    {
+      "id": "6750440049024086587",
+      "lang": "nl",
+      "source": "MangaDex"
+    },
+    {
+      "id": "6759694902142024014",
+      "lang": "id",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "6779438435524152528",
+      "lang": "en",
+      "source": "MangaRoma"
+    },
+    {
+      "id": "6809832809263243724",
+      "lang": "id",
+      "source": "Mangareceh"
+    },
+    {
+      "id": "6840513937945146538",
+      "lang": "hi",
+      "source": "MangaDex"
+    },
+    {
+      "id": "684582342346256208",
+      "lang": "en",
+      "source": "Existential Comics"
+    },
+    {
+      "id": "6849356311438092898",
+      "lang": "vi",
+      "source": "MangaToon (Limited)"
+    },
+    {
+      "id": "6851437974515624757",
+      "lang": "de",
+      "source": "Manga Tube"
+    },
+    {
+      "id": "6855151339957047240",
+      "lang": "en",
+      "source": "Manganelo.link"
+    },
+    {
+      "id": "6858719406079923084",
+      "lang": "pt-BR",
+      "source": "Golden Mangás"
+    },
+    {
+      "id": "6861496002170366525",
+      "lang": "vi",
+      "source": "NhatTruyen"
+    },
+    {
+      "id": "6866501712274278283",
+      "lang": "ar",
+      "source": "Asgard Team"
+    },
+    {
+      "id": "6894303465364688269",
+      "lang": "en",
+      "source": "Manga Eden"
+    },
+    {
+      "id": "6923367279544661736",
+      "lang": "en",
+      "source": "Manga Rock Team"
+    },
+    {
+      "id": "6931383302802153355",
+      "lang": "pt-BR",
+      "source": "Union Mangás"
+    },
+    {
+      "id": "6945633903177917573",
+      "lang": "pt-BR",
+      "source": "Silence Scan"
+    },
+    {
+      "id": "6951399865568003192",
+      "lang": "en",
+      "source": "Manwha Club"
+    },
+    {
+      "id": "6963106975536326424",
+      "lang": "es",
+      "source": "InManga"
+    },
+    {
+      "id": "6973908146706613748",
+      "lang": "zh",
+      "source": "57漫画"
+    },
+    {
+      "id": "6974398504587768360",
+      "lang": "zh",
+      "source": "漫画柜"
+    },
+    {
+      "id": "7",
+      "lang": "ru",
+      "source": "Mangachan"
+    },
+    {
+      "id": "7004582542854505662",
+      "lang": "en",
+      "source": "Toomics (Only free chapters)"
+    },
+    {
+      "id": "7057310897267782237",
+      "lang": "ko",
+      "source": "Manhwa Raw"
+    },
+    {
+      "id": "7057887837670164322",
+      "lang": "vi",
+      "source": "Fallen Angels Scans"
+    },
+    {
+      "id": "7074271619480929378",
+      "lang": "en",
+      "source": "LemonFont"
+    },
+    {
+      "id": "7084618587403216116",
+      "lang": "hi",
+      "source": "Bato.to"
+    },
+    {
+      "id": "7097816699537539700",
+      "lang": "pt-BR",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "7110025728969951060",
+      "lang": "tr",
+      "source": "Manga Ship"
+    },
+    {
+      "id": "7114846210461894145",
+      "lang": "it",
+      "source": "Mangaworld"
+    },
+    {
+      "id": "711589261250964163",
+      "lang": "pt-BR",
+      "source": "Central de Mangás"
+    },
+    {
+      "id": "7130055782128032732",
+      "lang": "fr",
+      "source": "HN-Scantrad"
+    },
+    {
+      "id": "7142690286455842082",
+      "lang": "pt-BR",
+      "source": "Origami Orpheans"
+    },
+    {
+      "id": "7151438547982231541",
+      "lang": "pt",
+      "source": "-Hentai"
+    },
+    {
+      "id": "7152051434914714980",
+      "lang": "ms",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "7152688036023311164",
+      "lang": "pt-BR",
+      "source": "MangaYabu!"
+    },
+    {
+      "id": "7157194004865959298",
+      "lang": "fr",
+      "source": "Yokai Jump"
+    },
+    {
+      "id": "7162569729467394726",
+      "lang": "pt",
+      "source": "NineMangaBr"
+    },
+    {
+      "id": "7176875803564131193",
+      "lang": "en",
+      "source": "MangaZuki.xyz"
+    },
+    {
+      "id": "7185350469868201379",
+      "lang": "es-419",
+      "source": "Bato.to"
+    },
+    {
+      "id": "7185601298150078890",
+      "lang": "en",
+      "source": "Read Comics Online"
+    },
+    {
+      "id": "7187189302580957274",
+      "lang": "pt-BR",
+      "source": "YES Mangás"
+    },
+    {
+      "id": "720698779193817891",
+      "lang": "en",
+      "source": "Mangahasu"
+    },
+    {
+      "id": "7219503638837099253",
+      "lang": "fr",
+      "source": "The Library of Ohara"
+    },
+    {
+      "id": "7229505035165953281",
+      "lang": "en",
+      "source": "Eggporncomics"
+    },
+    {
+      "id": "7265793330155215502",
+      "lang": "pt",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "7268977637085631557",
+      "lang": "vi",
+      "source": "Ngon Phong"
+    },
+    {
+      "id": "7280629652430707079",
+      "lang": "en",
+      "source": "Miracle Scans"
+    },
+    {
+      "id": "7291521832235473745",
+      "lang": "en",
+      "source": "Madokami"
+    },
+    {
+      "id": "7303667962826327896",
+      "lang": "en",
+      "source": "NANI? Scans"
+    },
+    {
+      "id": "7306937603463231374",
+      "lang": "en",
+      "source": "Random Translations"
+    },
+    {
+      "id": "7307224992915342074",
+      "lang": "en",
+      "source": "The Property of Hate"
+    },
+    {
+      "id": "7309872737163460316",
+      "lang": "other",
+      "source": "NHentai"
+    },
+    {
+      "id": "7327582601422280123",
+      "lang": "en",
+      "source": "MyHentaiGallery"
+    },
+    {
+      "id": "7328966691702591431",
+      "lang": "vi",
+      "source": "BlogTruyen"
+    },
+    {
+      "id": "7330216215852925244",
+      "lang": "pt-BR",
+      "source": "Argos Scan"
+    },
+    {
+      "id": "734619124437406170",
+      "lang": "id",
+      "source": "Komikindo.co"
+    },
+    {
+      "id": "7353019952788055854",
+      "lang": "en",
+      "source": "MangaDogs.fun"
+    },
+    {
+      "id": "7358406305253420469",
+      "lang": "en",
+      "source": "BestManhua"
+    },
+    {
+      "id": "7362369816539610504",
+      "lang": "es",
+      "source": "Toomics (Only free chapters) (LA)"
+    },
+    {
+      "id": "7366377015245721228",
+      "lang": "zh",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "7367906623156459953",
+      "lang": "id",
+      "source": "BacaManga"
+    },
+    {
+      "id": "737986167355114438",
+      "lang": "lt",
+      "source": "MangaDex"
+    },
+    {
+      "id": "7380467428978561926",
+      "lang": "tr",
+      "source": "ArazNovel"
+    },
+    {
+      "id": "7384401980200343826",
+      "lang": "en",
+      "source": "ReadMangaFox"
+    },
+    {
+      "id": "738706855355689486",
+      "lang": "en",
+      "source": "Dynast-Anthologies"
+    },
+    {
+      "id": "7388100486112484697",
+      "lang": "en",
+      "source": "MangaReader.cc"
+    },
+    {
+      "id": "7390992214322845162",
+      "lang": "th",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "7432245132662185058",
+      "lang": "en",
+      "source": "Decadence Scans"
+    },
+    {
+      "id": "7432293952197781665",
+      "lang": "pt",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "7433475649528583036",
+      "lang": "pt-BR",
+      "source": "StageComics"
+    },
+    {
+      "id": "7433687355538645019",
+      "lang": "en",
+      "source": "Nazarick Scans"
+    },
+    {
+      "id": "7462657023971681136",
+      "lang": "pt-BR",
+      "source": "Remangas"
+    },
+    {
+      "id": "7497914578185009357",
+      "lang": "en",
+      "source": "Heroz Scanlation"
+    },
+    {
+      "id": "7501688441146148811",
+      "lang": "en",
+      "source": "Agent of Change Translations"
+    },
+    {
+      "id": "7529658920665636296",
+      "lang": "pt-BR",
+      "source": "Drope Scan"
+    },
+    {
+      "id": "7547950838983208237",
+      "lang": "en",
+      "source": "Webcomics"
+    },
+    {
+      "id": "7557282200130823077",
+      "lang": "en",
+      "source": "CatOnHeadTranslations"
+    },
+    {
+      "id": "7567013997438852760",
+      "lang": "es",
+      "source": "Ikuhentai"
+    },
+    {
+      "id": "7576053878109850761",
+      "lang": "de",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "7576440018916883094",
+      "lang": "cs",
+      "source": "Bato.to"
+    },
+    {
+      "id": "7595224096258102519",
+      "lang": "ja",
+      "source": "RawLH"
+    },
+    {
+      "id": "7613639758606116716",
+      "lang": "no",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "7616097631685192755",
+      "lang": "ja",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "763749282821146512",
+      "lang": "en",
+      "source": "365Manga"
+    },
+    {
+      "id": "7642785534684357226",
+      "lang": "tr",
+      "source": "SeriManga"
+    },
+    {
+      "id": "7652402685655897221",
+      "lang": "it",
+      "source": "Toomics (Only free chapters)"
+    },
+    {
+      "id": "7654611987099903651",
+      "lang": "other",
+      "source": "Customizable"
+    },
+    {
+      "id": "7675946366494793306",
+      "lang": "th",
+      "source": "CA-translator"
+    },
+    {
+      "id": "7689490563697355048",
+      "lang": "en",
+      "source": "NineHentai"
+    },
+    {
+      "id": "7715542271185249444",
+      "lang": "ja",
+      "source": "Sen Manga"
+    },
+    {
+      "id": "773611868725221145",
+      "lang": "hu",
+      "source": "-Hentai"
+    },
+    {
+      "id": "7774799470244953147",
+      "lang": "id",
+      "source": "Matakomik"
+    },
+    {
+      "id": "7798162483793432927",
+      "lang": "en",
+      "source": "MangaLife"
+    },
+    {
+      "id": "7800124775223356068",
+      "lang": "pt-BR",
+      "source": "Furio Scans"
+    },
+    {
+      "id": "7816508865953731299",
+      "lang": "it",
+      "source": "NIFTeam"
+    },
+    {
+      "id": "7820880467432898007",
+      "lang": "en",
+      "source": "HN-Scantrad"
+    },
+    {
+      "id": "7840792369011987371",
+      "lang": "en",
+      "source": "Manhwas Men"
+    },
+    {
+      "id": "784276282691018699",
+      "lang": "pt-BR",
+      "source": "Tao Sect"
+    },
+    {
+      "id": "7866629035053218469",
+      "lang": "id",
+      "source": "Sekte Komik (WP Manga Stream)"
+    },
+    {
+      "id": "7875815514004535629",
+      "lang": "id",
+      "source": "Komik AV (WP Manga Stream)"
+    },
+    {
+      "id": "7882092902270952632",
+      "lang": "zh",
+      "source": "BoomManga"
+    },
+    {
+      "id": "7890050626002177109",
+      "lang": "en",
+      "source": "Bato.to"
+    },
+    {
+      "id": "789561949979941461",
+      "lang": "en",
+      "source": "Mangareader"
+    },
+    {
+      "id": "7905198752804178021",
+      "lang": "id",
+      "source": "GURU Komik"
+    },
+    {
+      "id": "7923996159809875228",
+      "lang": "it",
+      "source": "Storm in Heaven"
+    },
+    {
+      "id": "7925520943983324764",
+      "lang": "es",
+      "source": "LectorManga"
+    },
+    {
+      "id": "7929529726380440536",
+      "lang": "en",
+      "source": "18LHPlus"
+    },
+    {
+      "id": "7945033982379409892",
+      "lang": "en",
+      "source": "HentaiFox"
+    },
+    {
+      "id": "7945727222311293773",
+      "lang": "en",
+      "source": "Ciayo Comics"
+    },
+    {
+      "id": "7949854430526190429",
+      "lang": "id",
+      "source": "Sekte Doujin"
+    },
+    {
+      "id": "7969606392351831672",
+      "lang": "vi",
+      "source": "TruyenTranhLH"
+    },
+    {
+      "id": "7989144075938821809",
+      "lang": "fr",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "8",
+      "lang": "en",
+      "source": "ReadMangaToday"
+    },
+    {
+      "id": "8018617116218839250",
+      "lang": "fr",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "8033579885162383068",
+      "lang": "pl",
+      "source": "MangaDex"
+    },
+    {
+      "id": "803383413234524994",
+      "lang": "zh",
+      "source": "百年漫画"
+    },
+    {
+      "id": "8058371969227852729",
+      "lang": "zh",
+      "source": "扑飞漫画"
+    },
+    {
+      "id": "8061953015808280611",
+      "lang": "en",
+      "source": "ReadComicOnline"
+    },
+    {
+      "id": "8068520237045196996",
+      "lang": "en",
+      "source": "BoysLove"
+    },
+    {
+      "id": "8074481155021144106",
+      "lang": "en",
+      "source": "Komga (2)"
+    },
+    {
+      "id": "8099870292642776005",
+      "lang": "zh",
+      "source": "Kuaikanmanhua"
+    },
+    {
+      "id": "8100626124886895451",
+      "lang": "ja",
+      "source": "-Hentai"
+    },
+    {
+      "id": "8107468051584194246",
+      "lang": "it",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "8124325003432569324",
+      "lang": "fr",
+      "source": "FR Scan"
+    },
+    {
+      "id": "8162933120097302217",
+      "lang": "id",
+      "source": "KomikTap"
+    },
+    {
+      "id": "8190062809957825087",
+      "lang": "zh",
+      "source": "汗汗酷漫"
+    },
+    {
+      "id": "8205252065972088770",
+      "lang": "ar",
+      "source": "The Library of Ohara"
+    },
+    {
+      "id": "8206633235742418347",
+      "lang": "id",
+      "source": "Ciayo Comics"
+    },
+    {
+      "id": "8218859053112527350",
+      "lang": "nl",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "8228358755731264045",
+      "lang": "en",
+      "source": "NTS Void Scans"
+    },
+    {
+      "id": "8251758253314457060",
+      "lang": "fr",
+      "source": "Webtoons.com"
+    },
+    {
+      "id": "825187715438990384",
+      "lang": "ko",
+      "source": "-Hentai"
+    },
+    {
+      "id": "8252565807829914103",
+      "lang": "zh",
+      "source": "COCO漫画 (OH漫画)"
+    },
+    {
+      "id": "8254121249433835847",
+      "lang": "fi",
+      "source": "MangaDex"
+    },
+    {
+      "id": "825776120573855096",
+      "lang": "tr",
+      "source": "Atikrost"
+    },
+    {
+      "id": "827842316898098593",
+      "lang": "id",
+      "source": "MangaYu"
+    },
+    {
+      "id": "8279458690164834090",
+      "lang": "pt-BR",
+      "source": "NOISE"
+    },
+    {
+      "id": "8305623360897841462",
+      "lang": "en",
+      "source": "ComicKiba"
+    },
+    {
+      "id": "8313710135007480920",
+      "lang": "th",
+      "source": "Bakaman"
+    },
+    {
+      "id": "8314925449740051373",
+      "lang": "en",
+      "source": "Hentai2Read"
+    },
+    {
+      "id": "8339625080404115366",
+      "lang": "zh",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "8341594492961776810",
+      "lang": "ko",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "83473010923167077",
+      "lang": "ru",
+      "source": "AllHentai"
+    },
+    {
+      "id": "835568153222273226",
+      "lang": "fil",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "8371548443782837856",
+      "lang": "pl",
+      "source": "Dragon Ball Multiverse"
+    },
+    {
+      "id": "8380653399820152316",
+      "lang": "it",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "8385948079634749158",
+      "lang": "es",
+      "source": "TMOHentai"
+    },
+    {
+      "id": "8407918086430822161",
+      "lang": "ar",
+      "source": "QueensManga ملكات المانجا"
+    },
+    {
+      "id": "8427126052180576160",
+      "lang": "ko",
+      "source": "Bato.to"
+    },
+    {
+      "id": "8432236000137725211",
+      "lang": "id",
+      "source": "Mangakyo"
+    },
+    {
+      "id": "8448310129093543312",
+      "lang": "en",
+      "source": "MangaPill"
+    },
+    {
+      "id": "8451792550593342911",
+      "lang": "ar",
+      "source": "Manga Land Arabic"
+    },
+    {
+      "id": "8454920920230076882",
+      "lang": "de",
+      "source": "NineMangaDe"
+    },
+    {
+      "id": "8463368527803594339",
+      "lang": "ja",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "8472215287946707583",
+      "lang": "es",
+      "source": "VCP"
+    },
+    {
+      "id": "8473797648002215114",
+      "lang": "el",
+      "source": "Bato.to"
+    },
+    {
+      "id": "8477094968107624540",
+      "lang": "id",
+      "source": "MangaYaku"
+    },
+    {
+      "id": "8502643854625402659",
+      "lang": "id",
+      "source": "Komik Manga"
+    },
+    {
+      "id": "8506087325905168576",
+      "lang": "en",
+      "source": "ManyToon"
+    },
+    {
+      "id": "8520495812958274821",
+      "lang": "ru",
+      "source": "Risens Team"
+    },
+    {
+      "id": "853143029782876879",
+      "lang": "en",
+      "source": "Readjump"
+    },
+    {
+      "id": "8537237244081969587",
+      "lang": "pt-BR",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "8547397037512613554",
+      "lang": "en",
+      "source": "AllPornComic"
+    },
+    {
+      "id": "8565121633373942070",
+      "lang": "it",
+      "source": "Rama"
+    },
+    {
+      "id": "8568942398723937765",
+      "lang": "en",
+      "source": "Man Manga"
+    },
+    {
+      "id": "8578871918181236609",
+      "lang": "fil",
+      "source": "MangaDex"
+    },
+    {
+      "id": "8601336865408732240",
+      "lang": "ru",
+      "source": "Mangahub"
+    },
+    {
+      "id": "8627005241494011788",
+      "lang": "en",
+      "source": "Silent Sky"
+    },
+    {
+      "id": "8634129511536089444",
+      "lang": "id",
+      "source": "KomikFan"
+    },
+    {
+      "id": "8635217308940283871",
+      "lang": "el",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "863874713491229667",
+      "lang": "en",
+      "source": "Hatigarm Scans"
+    },
+    {
+      "id": "8666523919875048842",
+      "lang": "ar",
+      "source": "موقع لترجمة المانجا"
+    },
+    {
+      "id": "8678031417240935159",
+      "lang": "fr",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "8706695958003923242",
+      "lang": "pt-BR",
+      "source": "Projeto Scanlator"
+    },
+    {
+      "id": "8709564611486410096",
+      "lang": "vi",
+      "source": "HocVienTruyenTranh"
+    },
+    {
+      "id": "8710233113697010312",
+      "lang": "en",
+      "source": "MangaSum"
+    },
+    {
+      "id": "8728648053438602039",
+      "lang": "en",
+      "source": "Manga Hentai"
+    },
+    {
+      "id": "8735588151075137817",
+      "lang": "en",
+      "source": "vgperson"
+    },
+    {
+      "id": "8749627068478740298",
+      "lang": "id",
+      "source": "Webtoons.com (Indonesian)"
+    },
+    {
+      "id": "8797848241762018338",
+      "lang": "id",
+      "source": "DoujinYosh"
+    },
+    {
+      "id": "8842237058298566885",
+      "lang": "id",
+      "source": "MyReadingManga"
+    },
+    {
+      "id": "8850383356117730479",
+      "lang": "en",
+      "source": "Manga Read"
+    },
+    {
+      "id": "8883916630998758688",
+      "lang": "id",
+      "source": "West Manga (WP Manga Stream)"
+    },
+    {
+      "id": "888770072469770290",
+      "lang": "en",
+      "source": "Zahard"
+    },
+    {
+      "id": "8899980966961724489",
+      "lang": "ar",
+      "source": "مانجا العرب"
+    },
+    {
+      "id": "8908032188831949972",
+      "lang": "pt-BR",
+      "source": "Baixar Hentai"
+    },
+    {
+      "id": "8910069790702403033",
+      "lang": "tr",
+      "source": "Liebe Schnee Hiver"
+    },
+    {
+      "id": "8918520211459944430",
+      "lang": "en",
+      "source": "Reaper Scans"
+    },
+    {
+      "id": "8919726581572234359",
+      "lang": "en",
+      "source": "WoopRead"
+    },
+    {
+      "id": "89477557227094209",
+      "lang": "vi",
+      "source": "TruyenTranhAudio.com"
+    },
+    {
+      "id": "8964063758548358169",
+      "lang": "tr",
+      "source": "Adonis Fansub"
+    },
+    {
+      "id": "8964955618607188170",
+      "lang": "tr",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "8972939813888119061",
+      "lang": "es",
+      "source": "Simply Hentai"
+    },
+    {
+      "id": "8975393841649838643",
+      "lang": "en",
+      "source": "ReadManhwa"
+    },
+    {
+      "id": "8982378204931160451",
+      "lang": "en",
+      "source": "Manga1s"
+    },
+    {
+      "id": "8983242087533137528",
+      "lang": "ru",
+      "source": "Remanga"
+    },
+    {
+      "id": "899631956704580406",
+      "lang": "en",
+      "source": "Aloalivn"
+    },
+    {
+      "id": "9",
+      "lang": "en",
+      "source": "Mangasee"
+    },
+    {
+      "id": "9009203405357800791",
+      "lang": "ja",
+      "source": "HanaScan (RawQQ)"
+    },
+    {
+      "id": "9030178752551947945",
+      "lang": "en",
+      "source": "Manhua Plus"
+    },
+    {
+      "id": "9037309701835524387",
+      "lang": "ar",
+      "source": "مانجا عرب تيم Manga Arab Team"
+    },
+    {
+      "id": "9068262319581900273",
+      "lang": "tr",
+      "source": "MangaWT"
+    },
+    {
+      "id": "9070098188425137894",
+      "lang": "tr",
+      "source": "MangaHanta"
+    },
+    {
+      "id": "9080360988505909715",
+      "lang": "en",
+      "source": "MangaKomi"
+    },
+    {
+      "id": "9095569612750018806",
+      "lang": "ar",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "9099625279607630424",
+      "lang": "id",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "9099903500112063357",
+      "lang": "hu",
+      "source": "Hitomi.la"
+    },
+    {
+      "id": "9109775888765972234",
+      "lang": "en",
+      "source": "Astral Library"
+    },
+    {
+      "id": "9110807577366673447",
+      "lang": "fr",
+      "source": "Wakascan"
+    },
+    {
+      "id": "911623545095065045",
+      "lang": "id",
+      "source": "Kombatch"
+    },
+    {
+      "id": "9118542777271785908",
+      "lang": "en",
+      "source": "Mangairo"
+    },
+    {
+      "id": "9124030765514623833",
+      "lang": "mn",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "9129536865313713725",
+      "lang": "zh",
+      "source": "Tohomh123"
+    },
+    {
+      "id": "918460697583900080",
+      "lang": "ar",
+      "source": "مانجا ليك"
+    },
+    {
+      "id": "9193816653713258037",
+      "lang": "en",
+      "source": "Mangakakalots (unoriginal)"
+    },
+    {
+      "id": "9194073792736219759",
+      "lang": "vi",
+      "source": "MangaDex"
+    },
+    {
+      "id": "9196041283879157328",
+      "lang": "fa",
+      "source": "Mangawindow"
+    },
+    {
+      "id": "9209618541460951974",
+      "lang": "p-BR",
+      "source": "HQ Dragon"
+    },
+    {
+      "id": "9219933036054791613",
+      "lang": "pt",
+      "source": "Webtoons.com Translations (European)"
+    },
+    {
+      "id": "945070544642782769",
+      "lang": "pl",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "958417049187203678",
+      "lang": "es",
+      "source": "MangaToon (Limited)"
+    },
+    {
+      "id": "964048798769065340",
+      "lang": "ar",
+      "source": "Manga Pro Z"
+    },
+    {
+      "id": "972717448578983812",
+      "lang": "id",
+      "source": "Komik Cast (WP Manga Stream)"
+    },
+    {
+      "id": "987907117607483547",
+      "lang": "fil",
+      "source": "Webtoons.com Translations"
+    },
+    {
+      "id": "989286441051646783",
+      "lang": "fr",
+      "source": "JapanRead (via EliMangas)"
+    }
+  ]
+}
